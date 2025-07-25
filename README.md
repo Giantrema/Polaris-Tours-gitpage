@@ -1,6 +1,6 @@
 # 🌟 Polaris Tours - Aplicación Web de Turismo
 
-Una aplicación web moderna y elegante para una agencia de turismo especializada en destinos espectaculares de Sudamérica. Construida con las mejores prácticas de desarrollo frontend.
+Una aplicación web moderna y elegante para una agencia de turismo especializada en destinos espectaculares de Sudamérica. Construida con las mejores prácticas de desarrollo frontend.<br>
 Si deseas ver mi proyecto aqui te dejo el enlace:  https://giantrema.github.io/Polaris-Tours-gitpage/
 ## ✨ Características Principales
 
