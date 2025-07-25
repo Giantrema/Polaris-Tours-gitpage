@@ -5,19 +5,19 @@ const HeroCarousel = () => {
   const slides = [
     {
       id: 1,
-      image: '/src/assets/images/carousel/carousel1.avif',
+      image: '/images/carousel/carousel1.avif',
       title: 'Descubre el Mundo con Polaris Tours',
       subtitle: 'Aventuras únicas te esperan en cada destino'
     },
     {
       id: 2,
-      image: '/src/assets/images/carousel/carousel2.avif',
+      image: '/images/carousel/carousel2.avif',
       title: 'Explora Culturas Fascinantes',
       subtitle: 'Sumérgete en tradiciones milenarias'
     },
     {
       id: 3,
-      image: '/src/assets/images/carousel/carousel3.avif',
+      image: '/images/carousel/carousel3.avif',
       title: 'Paisajes que Inspiran',
       subtitle: 'Naturaleza en su máximo esplendor'
     }

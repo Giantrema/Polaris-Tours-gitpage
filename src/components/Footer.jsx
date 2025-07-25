@@ -170,19 +170,19 @@ const Footer = () => {
           <Col lg={4} className="text-lg-end">
             <div className="mb-3">
               <img
-                src="/src/assets/images/footer/visa.png"
+                src="/images/footer/visa.png"
                 alt="Visa"
                 className="me-2 opacity-75"
                 style={{ height: '30px' }}
               />
               <img
-                src="/src/assets/images/footer/master.jfif"
+                src="/images/footer/master.jfif"
                 alt="MasterCard"
                 className="me-2 opacity-75"
                 style={{ height: '30px' }}
               />
               <img
-                src="/src/assets/images/footer/american.png"
+                src="/images/footer/american.png"
                 alt="American Express"
                 className="opacity-75"
                 style={{ height: '30px' }}

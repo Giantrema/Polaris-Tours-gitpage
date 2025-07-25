@@ -18,7 +18,7 @@ const TestimonialsSection = () => {
       id: 1,
       name: 'María González',
       country: 'España',
-      image: '/src/assets/images/testimonials/maria.jpg',
+      image: '/images/testimonials/maria.jpg',
       text: 'Mi viaje a Perú con Polaris Tours fue absolutamente increíble. La organización fue perfecta y los guías muy profesionales. Machu Picchu superó todas mis expectativas.',
       rating: 5,
       trip: 'Tour Perú Clásico'
@@ -27,7 +27,7 @@ const TestimonialsSection = () => {
       id: 2,
       name: 'Carlos Mendoza',
       country: 'México',
-      image: '/src/assets/images/testimonials/carlos.avif',
+      image: '/images/testimonials/carlos.avif',
       text: 'La aventura en la Patagonia fue única. Los paisajes son indescriptibles y el servicio de primera calidad. Sin duda regresaré con Polaris Tours.',
       rating: 5,
       trip: 'Aventura Patagónica'
@@ -36,7 +36,7 @@ const TestimonialsSection = () => {
       id: 3,
       name: 'Ana Silva',
       country: 'Brasil',
-      image: '/src/assets/images/testimonials/ana.avif',
+      image: '/images/testimonials/ana.avif',
       text: 'Excelente atención al cliente desde el primer contacto. El tour gastronómico por Colombia fue una experiencia sensorial increíble.',
       rating: 5,
       trip: 'Sabores de Colombia'

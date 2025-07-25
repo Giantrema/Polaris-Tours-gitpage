@@ -6,7 +6,7 @@ const ExperiencesSection = () => {
     {
       id: 1,
       title: 'Aventura en la Amazonía',
-      image: '/src/assets/images/experiences/Amazonia.jpg',
+      image: '/images/experiences/Amazonia.jpg',
       description: 'Explora la selva tropical más grande del mundo y conoce su biodiversidad única.',
       duration: '7 días',
       difficulty: 'Moderada',
@@ -15,7 +15,7 @@ const ExperiencesSection = () => {
     {
       id: 2,
       title: 'Trekking en los Andes',
-      image: '/src/assets/images/experiences/Andes.jpg',
+      image: '/images/experiences/Andes.jpg',
       description: 'Camina por senderos ancestrales y descubre paisajes montañosos impresionantes.',
       duration: '5 días',
       difficulty: 'Alta',
@@ -24,7 +24,7 @@ const ExperiencesSection = () => {
     {
       id: 3,
       title: 'Buceo en el Caribe',
-      image: '/src/assets/images/experiences/Buceo_caribe.webp',
+      image: '/images/experiences/Buceo_caribe.webp',
       description: 'Sumérgete en aguas cristalinas y descubre arrecifes de coral espectaculares.',
       duration: '4 días',
       difficulty: 'Baja',
@@ -33,7 +33,7 @@ const ExperiencesSection = () => {
     {
       id: 4,
       title: 'Safari Fotográfico',
-      image: '/src/assets/images/experiences/Safari.avif',
+      image: '/images/experiences/Safari.avif',
       description: 'Captura la vida salvaje en su hábitat natural con guías especializados.',
       duration: '6 días',
       difficulty: 'Baja',
@@ -42,7 +42,7 @@ const ExperiencesSection = () => {
     {
       id: 5,
       title: 'Pirámides de Egipto',
-      image: '/src/assets/images/experiences/Piramides_Egipto.jfif',
+      image: '/images/experiences/Piramides_Egipto.jfif',
       description: 'Explora las majestuosas pirámides y sumérgete en la historia antigua.',
       duration: '3 días',
       difficulty: 'Baja',
@@ -51,7 +51,7 @@ const ExperiencesSection = () => {
     {
       id: 6,
       title: 'Antártida',
-      image: '/src/assets/images/experiences/Antartida.avif',
+      image: '/images/experiences/Antartida.avif',
       description: 'Explora el continente helado y su vida salvaje única.',
       duration: '2 días',
       difficulty: 'Baja',
