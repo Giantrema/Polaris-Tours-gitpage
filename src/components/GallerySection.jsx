@@ -8,63 +8,63 @@ const GallerySection = () => {
   const galleryImages = [
     {
       id: 1,
-      src: '/images/gallery/Machu Picchu.avif',
+      src: './images/gallery/Machu Picchu.avif',
       title: 'Machu Picchu, Perú',
       category: 'Arqueología',
       description: 'La ciudadela inca más famosa del mundo'
     },
     {
       id: 2,
-      src: '/images/gallery/Atacama.webp',
+      src: './images/gallery/Atacama.webp',
       title: 'Desierto de Atacama, Chile',
       category: 'Paisajes',
       description: 'El desierto más árido del mundo'
     },
     {
       id: 3,
-      src: '/images/gallery/cristo.jpg',
+      src: './images/gallery/cristo.jpg',
       title: 'Cristo Redentor, Brasil',
       category: 'Monumentos',
       description: 'Símbolo icónico de Río de Janeiro'
     },
     {
       id: 4,
-      src: '/images/gallery/amazonia.jpg',
+      src: './images/gallery/amazonia.jpg',
       title: 'Amazonía, Brasil',
       category: 'Naturaleza',
       description: 'Pulmón verde del planeta'
     },
     {
       id: 5,
-      src: '/images/gallery/cartagena.jpg',
+      src: './images/gallery/cartagena.jpg',
       title: 'Cartagena, Colombia',
       category: 'Colonial',
       description: 'Ciudad amurallada del Caribe'
     },
     {
       id: 6,
-      src: '/images/gallery/buenos_aires.jpg',
+      src: './images/gallery/buenos_aires.jpg',
       title: 'Buenos Aires, Argentina',
       category: 'Urbano',
       description: 'Capital del tango y la elegancia'
     },
     {
       id: 7,
-      src: '/images/gallery/galapagos.webp',
+      src: './images/gallery/galapagos.webp',
       title: 'Islas Galápagos, Ecuador',
       category: 'Fauna',
       description: 'Laboratorio natural de la evolución'
     },
     {
       id: 8,
-      src: '/images/gallery/cordillera.jfif',
+      src: './images/gallery/cordillera.jfif',
       title: 'Cordillera de los Andes',
       category: 'Montañas',
       description: 'La cadena montañosa más larga del mundo'
     },
     {
       id: 9,
-      src: '/images/gallery/carnaval.jpg',
+      src: './images/gallery/carnaval.jpg',
       title: 'Carnaval de Río',
       category: 'Cultura',
       description: 'La fiesta más colorida del mundo'

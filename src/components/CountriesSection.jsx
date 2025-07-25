@@ -9,7 +9,7 @@ const CountriesSection = () => {
     {
       id: 1,
       name: 'Perú',
-      image: '/images/countries/Machu Picchu.avif',
+      image: './images/countries/Machu Picchu.avif',
       description: 'Descubre Machu Picchu y la rica cultura inca',
       highlights: ['Machu Picchu', 'Cusco', 'Lima', 'Arequipa'],
       price: 'Desde $899',
@@ -35,7 +35,7 @@ const CountriesSection = () => {
     {
       id: 2,
       name: 'Chile',
-      image: '/images/countries/Atacama.webp',
+      image: './images/countries/Atacama.webp',
       description: 'Desde el desierto más árido hasta la Patagonia',
       highlights: ['Atacama', 'Santiago', 'Valparaíso'],
       price: 'Desde $1,299',
@@ -61,7 +61,7 @@ const CountriesSection = () => {
     {
       id: 3,
       name: 'Argentina',
-      image: '/images/countries/Argentina.jpg',
+      image: './images/countries/Argentina.jpg',
       description: 'Tango, vinos y paisajes espectaculares',
       highlights: ['Buenos Aires', 'Mendoza', 'Bariloche', 'Iguazú'],
       price: 'Desde $1,099',
@@ -87,7 +87,7 @@ const CountriesSection = () => {
     {
       id: 4,
       name: 'Brasil',
-      image: '/images/countries/Brasil.avif',
+      image: './images/countries/Brasil.avif',
       description: 'Playas paradisíacas y carnaval vibrante',
       highlights: ['Río de Janeiro', 'São Paulo', 'Salvador', 'Amazonia'],
       price: 'Desde $1,199',
@@ -113,7 +113,7 @@ const CountriesSection = () => {
     {
       id: 5,
       name: 'Colombia',
-      image: '/images/countries/Colombia.png',
+      image: './images/countries/Colombia.png',
       description: 'Diversidad natural y cultural increíble',
       highlights: ['Cartagena', 'Bogotá', 'Medellín', 'Tayrona'],
       price: 'Desde $799',
@@ -138,7 +138,7 @@ const CountriesSection = () => {
     {
       id: 6,
       name: 'Ecuador',
-      image: '/images/countries/Ecuador.webp',
+      image: './images/countries/Ecuador.webp',
       description: 'Galápagos y la mitad del mundo',
       highlights: ['Galápagos', 'Quito', 'Cuenca', 'Baños'],
       price: 'Desde $999',
